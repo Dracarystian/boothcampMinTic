@@ -45,7 +45,7 @@ export default function Developers() {
     </>
     )
   } 
-  const data = [
+ /*  const data = [
     {
       name: Brais,
       img: ../src/assets/Fotos/perfil-brais.png,
@@ -70,4 +70,4 @@ export default function Developers() {
       youtube:https://www.youtube.com/,
       twitter:https://twitter.com/MoureDev
     },
-  ];
+  ]; */
