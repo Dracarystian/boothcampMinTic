@@ -1,0 +1,18 @@
+[
+  {
+    "role": "BackEnd Engineer",
+    "organisation": "NoCountry",
+    "startDate": "Feb 2024",
+    "endDate": "Present",
+    "experiences": ["I developed a website designed for domestic workers with a team."],
+    "imageSrc": "history/noCountry.png"
+  },
+  {
+    "role": "Full Stack",
+    "organisation": "MinTic Colombia",
+    "startDate": "Feb, 2024",
+    "endDate": "April, 2024",
+    "experiences": ["Working on projects with react, tailwind. And docker, node, python and others for the backend part"],
+    "imageSrc": "history/mintic.png"
+  }
+]
